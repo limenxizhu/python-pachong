@@ -1,6 +1,6 @@
 # _*_coding:UTF-8 _*_
 # @Time : 2024/5/29 11:37
-# @Author:lupeng
+# @Author:张德帅
 # @File : 测试3
 import time
 import csv
@@ -10,7 +10,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
-import random
+import r和om
 
 
 driver = webdriver.Edge()
